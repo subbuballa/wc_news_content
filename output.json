@@ -1,0 +1,1036 @@
+{
+    "feed": {
+        "title": "TIME",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://feeds2.feedburner.com/time/topstories",
+            "value": "TIME"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://time.com"
+            },
+            {
+                "rel": "search",
+                "type": "application/opensearchdescription+xml",
+                "href": "https://time.com/osd.xml",
+                "title": "TIME"
+            },
+            {
+                "rel": "self",
+                "type": "application/rss+xml",
+                "href": "http://feeds.feedburner.com/time/topstories"
+            },
+            {
+                "rel": "hub",
+                "href": "http://pubsubhubbub.appspot.com/",
+                "type": "text/html"
+            },
+            {
+                "rel": "hub",
+                "href": "http://time.com/?pushpress=hub",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://time.com",
+        "subtitle": "Current & Breaking News | National & World Updates",
+        "subtitle_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "http://feeds2.feedburner.com/time/topstories",
+            "value": "Current & Breaking News | National & World Updates"
+        },
+        "updated": "Tue, 02 Jul 2019 08:31:16 +0000",
+        "updated_parsed": [
+            2019,
+            7,
+            2,
+            8,
+            31,
+            16,
+            1,
+            183,
+            0
+        ],
+        "language": "en",
+        "sy_updateperiod": "hourly",
+        "sy_updatefrequency": "1",
+        "generator_detail": {
+            "name": "http://wordpress.com/"
+        },
+        "generator": "http://wordpress.com/",
+        "cloud": {
+            "domain": "time.com",
+            "port": "80",
+            "path": "/?rsscloud=notify",
+            "registerprocedure": "",
+            "protocol": "http-post"
+        },
+        "image": {
+            "href": "https://secure.gravatar.com/blavatar/2cee445ea71a179ffd35ea91cf154905?s=96&d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png",
+            "title": "TIME",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "TIME"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://time.com"
+                }
+            ],
+            "link": "https://time.com"
+        },
+        "feedburner_info": {
+            "uri": "time/topstories"
+        },
+        "feedburner_feedflare": {
+            "href": "http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Ftime%2Ftopstories",
+            "src": "http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&fileName=ATP_blu_91x17.gif"
+        },
+        "info": "This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.",
+        "info_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://feeds2.feedburner.com/time/topstories",
+            "value": "This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use."
+        }
+    },
+    "entries": [
+        {
+            "title": "An Arm of the World Bank Has Been Implicated in Latin America\u2019s Biggest Corruption Scandal",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "An Arm of the World Bank Has Been Implicated in Latin America\u2019s Biggest Corruption Scandal"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/GXpR7LaZXHU/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/GXpR7LaZXHU/",
+            "published": "Tue, 02 Jul 2019 07:53:30 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                7,
+                53,
+                30,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Joshua Goodman / ap"
+                }
+            ],
+            "author": "Joshua Goodman / ap",
+            "author_detail": {
+                "name": "Joshua Goodman / ap"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Banking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "overnight",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618835",
+            "guidislink": false,
+            "summary": "It was revealed in a report issued last year by Colombia's anti-trust agency",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "It was revealed in a report issued last year by Colombia's anti-trust agency"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618835\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module\" data-src=\"https://time.com/5618835/world-bank-international-finance-corporation-graft-grupo-aval/\" data-widget-id=\"SB_2\" data-ob-template=\"timemag\"></div></aside>\n<p>(BOGOTA, Colombia) &mdash; Mar&iacute;a Victoria Guar&iacute;n was a key adviser on Colombia&#8217;s biggest-ever transportation project: a 1,000-kilometer (620-mile) highway across mountainous terrain connecting the capital to busy Caribbean ports.</p>\n<p>As an investment officer for a World Bank unit, it was her job to help the government set the terms for competitive bidding by contractors. It turns out she was also married to a senior executive of a company that won part of the very contract she helped to oversee.</p>\n<p>That apparent conflict of interest has now dragged the bank into the edges of Latin America&#8217;s biggest corruption scandal, as revealed in a little-noticed report issued last year by Colombia&#8217;s anti-trust agency.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>The Grupo Aval conglomerate that employed Guar&iacute;n&#8217;s husband was partnered with Odebrecht, the Brazilian construction giant that has admitted to paying $6.5 million in bribes to seal the deal &mdash; one of dozens of projects it now acknowledges winning through illegal payments.</p>\n<p>The scandal upended the region&#8217;s politics, leading to the jailing of dozens of senior politicians. But the role played by the World Bank in advising governments during the graft-ridden infrastructure boom of the past decade has received far less attention.</p>\n<p>The private-sector arm of the World Bank, known as the International Finance Corporation, or IFC, is supposed to reduce poverty in the developing world by promoting private investment.</p>\n<p>In an antitrust administrative complaint filed in September against Guar&iacute;n and several others, the IFC is accused of failing to act on Guar&iacute;n&#8217;s potential conflict of interest for nearly two years, even as she allegedly tilted the bidding process for part of the $2.6 billion contract in favor of her husband&#8217;s employer.</p>\n<p>Her husband, Diego Solano, who was also implicated, is now the chief financial officer of the New York Stock Exchange-traded company.</p>\n<p>If the civil charges of taking advantage of a conflict of interest and improper contacts are sustained, Guar&iacute;n faces a fine of up to $1 million. Aval and its subsidiaries are on the hook for $150 million.</p>\n<p>&#8220;There&#8217;s no doubt that the IFC conspired against free competition and transparency,&#8221; Pablo Robledo, the former antitrust regulator who led the probe, said in an interview.</p>\n<p>No one has been criminally charged, nor are there any indications that Guar&iacute;n and Solano financially benefited. But a judge in April asked Colombia&#8217;s attorney general to investigate the couple in handing down an 11-year sentence against Jos&eacute; Melo, the CEO of the Aval unit in the consortium.</p>\n<p>During Melo&#8217;s trial, a former deputy transportation minister jailed for accepting bribes testified that he was led to believe by Odebrecht&#8217;s country manager that the company had already influenced the structuring of the bidding terms through Guar&iacute;n.</p>\n<p>In a 2016 plea agreement with the U.S. Justice Department, Odebrecht admitted to paying almost $800 million in bribes to win contracts in 12 mostly Latin American countries.</p>\n<p>At the time of the highway project, multinational companies were recovering from the global financial crisis and wary of investing in a country where an armed conflict with leftist rebels was still raging. The IFC&#8217;s mission was to help the government attract as much interest as possible.</p>\n<p>The IFC allegedly stood by as the husband&#8217;s employer actively sought to take advantage of the conflict of interest, according to the antitrust agency&#8217;s findings. Among other alleged improprieties was the organizing of a lunch between Guar&iacute;n, her husband and Melo. The meeting was to take place in January 2009 &mdash; weeks before the bidding conditions were made public.</p>\n<p>The contacts continued after the months-long tender process officially got underway. That&#8217;s when, according to the antitrust regulator, strict rules were in place to make sure communications with the government or its advisers were transparent and all bidders had equal access to information.</p>\n<p>It was during this period that Guar&iacute;n in an email urged the government to lower the collateral requirements for bidders. She argued that she was informed privately by an Odebrecht executive that the high amounts represented a &#8220;deal breaker.&#8221;</p>\n<p>A month later, the requirements were changed.</p>\n<p>&#8220;The gold standard that should characterize the IFC&#8217;s behavior in accordance with the World Bank&#8217;s code of ethics clearly was not followed,&#8221; said Camilo Enciso, a criminal lawyer and director of the International Anti-Corruption Institute, who reviewed the documents in the case at the AP&#8217;s request. &#8220;The couple had a clear stake for their careers in the success or failure of this project.&#8221;</p>\n<p>Potential conflicts of interest &#8220;were everywhere,&#8221; he added, citing the use of confidential information, influence peddling and favoritism, among others. &#8220;The IFC should have known better.&#8221;</p>\n<p>Guar&iacute;n and Solano declined to comment. But in case filings both rejected the allegations of a conflict of interest. While Solano argued that he took steps to insulate himself from the bidding process, Guar&iacute;n said the lowering of the financial guarantees benefited all bidders and reflected longstanding concerns across the sector.</p>\n<p>Aval said it was cooperating with authorities but declined to comment further.</p>\n<p>The IFC also rejected the accusations, saying that Guar&iacute;n was hired before it was known who the bidders would be and because of her expertise in the infrastructure sector. She was member of an extensive team and did not have a managerial role.</p>\n<p>The IFC also said it notified the government and put in place safeguards to prevent any conflict of interest once news reports in July 2009 indicated Aval would take part in the bidding process. That was more than 20 months after the IFC started advising the government.</p>\n<p>&#8220;As it is the norm in these projects, IFC only served in an advisory capacity while the ultimate decisions regarding the project structure and the awarding of the concession contract rested exclusively with the Colombian government,&#8221; the IFC said in a statement.</p>\n<p>The safeguards included preventing Guar&iacute;n from playing any role in the bid evaluation process.</p>\n<p>But in a September 2009 public hearing, Colombia&#8217;s then-Transportation Minister expressed surprise upon hearing of Guar&iacute;n&#8217;s marriage to an Aval executive in an anonymously written complaint that described the relationship as a &#8220;perfectly camouflaged conflict of interest.&#8221;</p>\n<p>Richard Cabello, head of the IFC&#8217;s advisory services in Latin America, said the organization had taken unspecified steps from the outset to mitigate any possible negative effects arising from Guarin&#8217;s marriage, according to a transcript of the hearing.</p>\n<p>He also vowed to answer the &#8220;innuendo&#8221; in writing &mdash; although there&#8217;s no record the IFC did so publicly until almost eight years later, in response to a magazine column. In the 2017 statement, the IFC said it flagged the issue to the government a month before the hearing in coordination with an IFC department charged with managing potential conflicts.</p>\n<p>Cabello, like the IFC, &#8220;downplayed what took place and provided impertinent excuses that didn&#8217;t address the heart of the complaint,&#8221; the antitrust agency said in the 168-page report issued in September.</p>\n<p>The antitrust agency said the IFC refused to cooperate with its investigation, citing its immunity from judicial processes as an international organization. As such, it concluded that no action was taken to address the conflict.</p>\n<p>The IFC claims it volunteered to work with the government to clarify circumstances related to the project. Meanwhile, an attorney for Aval has accused the regulator of abusing its authority by accessing company emails without a court order and questioning Solano without a lawyer present. Colombia&#8217;s ombudsman has launched an investigation against Robledo in response.</p>\n<p>Two days after the hearing, Aval sent a letter to the government stating that Solano, then a senior executive, did not play any role in the process, despite emails suggesting he had had.</p>\n<p>Solano in a filing said his involvement was limited to helping structure a memorandum of understanding with Odebrecht and measuring the potential impact of a winning bid on Aval&#8217;s finances. He also said the antitrust regulator ignored an August 2009 email in which he explicitly asked Melo to refrain from sending him confidential information about the offer.</p>\n<p>Nonetheless emails show that Aval&#8217;s president, Luis Sarmiento, the son of Colombia&#8217;s wealthiest man, was aware of the issue and urged caution so that a winning bid would not be undone by a lawsuit.</p>\n<p>Despite the risks, the lobbying effort appeared to pay off, according to the antitrust regulator.</p>\n<p>When the results of the bidding were announced Dec. 14, 2009, the only two other competitors were disqualified on technical grounds. The Odebrecht-Aval consortium was awarded the contract for about $1 billion, just below the maximum allowed, suggesting it did not fear being outbid.</p>\n<p>Years later when Melo retired, he sent a farewell email to his colleague Solano. &#8220;Please send my regards to Maria Victoria,&#8221; he wrote, &#8220;she&#8217;s secretly always been our booster.&#8221;</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/GXpR7LaZXHU\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ifcx-world-bank-latni-america-graft-scandal.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ifcx-world-bank-latni-america-graft-scandal.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618835/world-bank-international-finance-corporation-graft-grupo-aval/"
+        },
+        {
+            "title": "South Korea\u2019s President Calls the Trump-Kim Border Summit the \u2018Start of an Era of Peace\u2019",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "South Korea\u2019s President Calls the Trump-Kim Border Summit the \u2018Start of an Era of Peace\u2019"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/IjaLApQacWY/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/IjaLApQacWY/",
+            "published": "Tue, 02 Jul 2019 07:32:55 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                7,
+                32,
+                55,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Hyung-Jin Kim / AP"
+                }
+            ],
+            "author": "Hyung-Jin Kim / AP",
+            "author_detail": {
+                "name": "Hyung-Jin Kim / AP"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "overnight",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "South Korea",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "South Korean sex slaves",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618849",
+            "guidislink": false,
+            "summary": "Moon Jae-In has lobbied hard to set up diplomacy between Trump and Kim",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Moon Jae-In has lobbied hard to set up diplomacy between Trump and Kim"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618849\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module\" data-src=\"https://time.com/5618849/south-korea-moon-jae-in-trump-kim-summit-hostility/\" data-widget-id=\"SB_2\" data-ob-template=\"timemag\"></div></aside>\n<p>(SEOUL, South Korea) &mdash; South Korea&#8217;s president on Tuesday called a recent U.S.-North Korean summit at the Korean border an end of mutual hostility between the countries, despite skepticism by many experts that it&#8217;s was a just made-for-TV moment that lacked any substance.</p>\n<p>During their impromptu third summit at the Korean Demilitarized Zone on Sunday, Trump and Kim reaffirmed their friendships and agreed to resume nuclear talks. Trump&#8217;s brief stepping across the borderline into North Korea also made him the first sitting U.S. president to set foot in the North&#8217;s soil. But neither side has still indicated they are any closer to resolving sticking points that collapsed their previous summit.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<div class=\"video-container\"><video id=\"brightcove-player-6054024537001\" data-video-id=\"6054024537001\" data-account=\"293884104\" data-player=\"SJa0Thl7\" data-embed=\"default\" controls preload=\"auto\" class=\"video-js responsive-video\"></video></div>\n<p>On Tuesday, South Korean President Moon Jae-in told a Cabinet meeting that the summit in the DMZ meant the two countries declared &#8220;an end of hostile relations&#8221; and the &#8220;start of an era of peace.&#8221;</p>\n<p>Moon, who briefly chatted with Trump and Kim on a DMZ village before the U.S. and North Korean leaders sat for a two-way meeting, described their summit as &#8220;historic.&#8221; He also called the summit &#8220;the fruits of amazing imagination,&#8221; saying it was arranged due to Trump&#8217;s &#8220;unprecedented&#8221; Twitter offer for a meeting and Kim&#8217;s &#8220;bold&#8221; decision to accept it.</p>\n<p>Moon, a liberal who took office in 2017, has lobbied hard to set up diplomacy between Trump and Kim to help find a peaceful settlement of the North Korean nuclear crisis. He met Kim three times last year, and their first and second summits happened at the same DMZ village called Panmunjom.</p>\n<p>At the start of Sunday&#8217;s meeting, Trump went across ankle-high concrete slabs that form the military demarcation line at Panmunjom after Kim told him he would become the first U.S. president to be in North Korea if he did so. After walking together toward north several meters (several feet), they turned back to the South for a summit that lasted about 50 minutes.</p>\n<p>Trump said he was &#8220;proud&#8221; to step over the borderline and thanked Kim for showing up for the meeting. Kim said he was initially &#8220;very surprised&#8221; at Trump&#8217;s tweet Saturday proposing a DMZ meeting and that their summit could not have occurred if the two leaders didn&#8217;t have &#8220;great friendship.&#8221;</p>\n<p>North Korea&#8217;s state media described Kim&#8217;s meeting with Trump as &#8220;an amazing event&#8221; and that both leaders expressed great satisfaction over the result of their talks. Moon&#8217;s government has also said it hopes the diplomatic momentum created by the latest Trump-Kim meeting would help revive inter-Korean dialogue.</p>\n<p>U.S. and North Korean officials are expected to sit down for working-level talks in coming weeks to hammer out the terms of a mutually acceptable deal, but many experts say it remains unclear whether the negotiations would successfully address the fundamental differences between Washington and Pyongyang that were exposed in the second Kim-Trump summit in Vietnam in February.</p>\n<p>The Hanoi summit ended without any agreement after Trump turned down Kim&#8217;s request for major sanctions relief in return for dismantling his main nuclear materials-making complex while leaving his already-manufactured nuclear bombs and long-range missiles intact.</p>\n<p>The United States and North Korea have no diplomatic ties and are still technically at war because an armistice that ended their 1950-53 Korean War has yet to be replaced with a peace treaty. About 28,500 U.S. troops are stationed in South Korea as deterrence against potential aggression from North Korea.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/IjaLApQacWY\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/gettyimages-1159168477.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/gettyimages-1159168477.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618849/south-korea-moon-jae-in-trump-kim-summit-hostility/"
+        },
+        {
+            "title": "Hong Kong\u2019s Embattled Leader Appeals for Calm in the Wake of Violent Anti-Government Protests",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Hong Kong\u2019s Embattled Leader Appeals for Calm in the Wake of Violent Anti-Government Protests"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/-avztQ6Sxo0/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/-avztQ6Sxo0/",
+            "published": "Tue, 02 Jul 2019 06:08:04 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                6,
+                8,
+                4,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "TIME Staff"
+                }
+            ],
+            "author": "TIME Staff",
+            "author_detail": {
+                "name": "TIME Staff"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hong Kong",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618795",
+            "guidislink": false,
+            "summary": "Carrie Lam has deplored a day of violent protest that culminated in the storming and ransacking of the enclave's legislature.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Carrie Lam has deplored a day of violent protest that culminated in the storming and ransacking of the enclave's legislature."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618795\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module\" data-src=\"https://time.com/5618795/carrie-lam-hong-kong-protests-legco/\" data-widget-id=\"SB_2\" data-ob-template=\"timemag\"></div></aside>\n<p>Hong Kong was struggling to come to terms this morning with the <a href=\"https://time.com/longform/hong-kong-july-1-handover-china-protests-democracy/\" >violent ransacking of the legislature</a> on July 1&mdash;the 22nd anniversary of the former British colony&#8217;s retrocession to China.</p>\n<p>On Monday night, hundreds of anti-China rioters battered their way through glass doors and steel shutters and ran rampant through the Legislative Council, locally referred to as LegCo. They smashed fixtures, spray-painted the walls with slogans and destroyed portraits of unpopular leaders, before breaching the debating chamber and draping the colonial flag across the president&#8217;s desk.</p>\n<div class=\"video-container\"><video id=\"brightcove-player-6054320350001\" data-video-id=\"6054320350001\" data-account=\"293884104\" data-player=\"SJa0Thl7\" data-embed=\"default\" controls preload=\"auto\" class=\"video-js responsive-video\"></video></div>\n<p>Government-run media <a href=\"https://twitter.com/rthk_enews/status/1145905509200879616\"  target=\"_blank\">reported</a> Tuesday that the legislature&#8217;s president had canceled all sessions for the next two weeks, effectively beginning the body&#8217;s summer recess. Authorities meanwhile pledged to bring rioters to justice, with police cordoning off the wrecked building and <a href=\"https://www.scmp.com/news/hong-kong/politics/article/3016861/hong-kong-clean-begins-police-take-control-legislative\"  target=\"_blank\">declaring it a crime scene</a>.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>Looking tired and subdued, Hong Kong&#8217;s embattled top official, Chief Executive Carrie Lam, called a press conference at 4:00 a.m. local time, three hours after police reoccupied the legislature, and <a href=\"https://www.info.gov.hk/gia/general/201907/02/P2019070200193.htm\"  target=\"_blank\">deplored</a> &#8220;the extreme use of violence and vandalism by protesters.&#8221;</p>\n<p>She added that &#8220;nothing is more important than the rule of law in Hong Kong&#8221; and hoped &#8220;society will return to normal as soon as possible.&#8221;</p>\n<p>Police Commissioner Stephen Lo appeared with Lam and, speaking in Cantonese, said: &#8220;The violent acts by the protesters have crossed a bottom line. Hong Kong is a peaceful society. I believe a lot of Hongkongers are saddened by the protesters&#8217; violent actions.&#8221;</p>\n<p>Lam meanwhile defended her handling of the escalating political crisis that has its origins in the government&#8217;s attempt to make it possible for fugitives to be extradited to the mainland. This does not happen at present, because even though Hong Kong is considered part of China, it is a semi-autonomous territory with a separate legal system and no extradition agreement with Beijing.</p>\n<p><strong>Read more:</strong> <em><a href=\"https://time.com/5606212/hong-kong-history-mass-demonstrations-protest/\" >A Brief History of Protest in Post-Handover Hong Kong</a></em></p>\n<p>The government says such an agreement is necessary to stop the former British colony from becoming a sanctuary for mainland criminals. It has also excluded political offenses from any potential pact. But many in this semi-autonomous enclave believe an extradition arrangement will simply be used to round up dissidents and activists on spurious criminal charges, such is the mistrust of the mainland.</p>\n<p>The <a href=\"https://time.com/5607046/hong-kong-protest-extradition/\" >massive marches</a> and other demonstrations that rocked Hong Kong during the past three weeks prompted Lam to suspend a legislative amendment that would have paved the way for extradition to go ahead.</p>\n<div class=\"video-container\"><video id=\"brightcove-player-6049928019001\" data-video-id=\"6049928019001\" data-account=\"293884104\" data-player=\"SJa0Thl7\" data-embed=\"default\" controls preload=\"auto\" class=\"video-js responsive-video\"></video></div>\n<p>&#8220;If the cause of the social tensions that we have seen is a bill to amend the Fugitive Offenders Ordinance, on June 15 I have announced the suspension of the bill,&#8221; she emphasized this morning.</p>\n<p>&#8220;Subsequently we have explained and elaborated that by suspending the bill at this point in time with no timetable and no plan to resume the debate of the bill in the Legislative Council, the bill will expire, or the bill will die, in July 2020 when the current LegCo term expires. That is a very positive response to the demands that we have heard.&#8221;</p>\n<p>Many ordinary Hongkongers are unhappy with the passive proposal to let the bill lapse, however, and demand its formal withdrawal along with Lam&#8217;s resignation. Their aspirations have also broadened into a desire for genuine democracy. Lam, like all of Hong Kong&#8217;s leaders since Britain&#8217;s withdrawal, was selected by a small electoral college largely drawn from the ranks of the pro-China elite and is seen as Beijing&#8217;s proxy.</p>\n<p>Some protesters are calling for freedom from China itself. The slogan &#8220;Hong Kong Is Not China&#8221; is frequently seen at protests and was spray-painted across a pillar during last night&#8217;s storming of the legislature.</p>\n<p>Reasserting her ability to govern in the wake of the protests, and containing a small but tenacious and growing <a href=\"https://time.com/4042269/hong-kong-self-determination-occupy-umbrella-revolution/\" >movement for self-determination</a>, will pose enormous challenges to Lam in the months ahead. She insists that the issues will be resolved not by protests but by rule of law.</p>\n<p>&#8220;The rule of law is exactly what I have been talking tonight,&#8221; she said. &#8220;I hope we all agree that this is something of paramount importance to Hong Kong and will continue to guide the Government&#8217;s reactions and responses to social issues and to the demands and aspirations of our people.&#8221;</p>\n<p>&mdash;<em>With reporting by Aria Hangyu Chen / Hong Kong</em></p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/-avztQ6Sxo0\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/gettyimages-1153138030.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/gettyimages-1153138030.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618795/carrie-lam-hong-kong-protests-legco/"
+        },
+        {
+            "title": "The U.N. Envoy for Myanmar Will \u2018Ring the Alarm Bell\u2019 If No Action is Taken on the Rohingya Crisis",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "The U.N. Envoy for Myanmar Will \u2018Ring the Alarm Bell\u2019 If No Action is Taken on the Rohingya Crisis"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/v0c7OzcFMsY/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/v0c7OzcFMsY/",
+            "published": "Tue, 02 Jul 2019 02:52:21 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                2,
+                52,
+                21,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Edith M. Lederer / AP"
+                }
+            ],
+            "author": "Edith M. Lederer / AP",
+            "author_detail": {
+                "name": "Edith M. Lederer / AP"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "myanmar",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "overnight",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618797",
+            "guidislink": false,
+            "summary": "More than 720,000 Rohingya Muslims have fled to neighboring Bangladesh",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "More than 720,000 Rohingya Muslims have fled to neighboring Bangladesh"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618797\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module\" data-src=\"https://time.com/5618797/un-rohingya-bangladesh-refugee-crisis-alarm/\" data-widget-id=\"SB_2\" data-ob-template=\"timemag\"></div></aside>\n<p>(UNITED NATIONS) &mdash; The U.N. envoy for Myanmar said Monday that progress on alleviating the crisis that led more than 720,000 Rohingya Muslims to flee to neighboring Bangladesh has been slow and if there is no action it will be time to &#8220;ring the alarm bell.&#8221;</p>\n<p>Christine Schraner-Burgener was responding to frustrated speeches and questions from many countries &mdash; from Bangladesh to Saudi Arabia to the United States &mdash; on the lack of progress in returning Rohingya nearly two years after they fled a violent crackdown by Myanmar&#8217;s military.</p>\n<p>She told the General Assembly there are &#8220;not a lot of changes on the ground,&#8221; pointing to &#8220;many challenges&#8221; including Myanmar&#8217;s civilian leaders having &#8220;to navigate an extremely difficult environment in which the military continues to have considerable political influence.&#8221;<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>In addition, Schraner-Burgener said, &#8220;immense complexities&#8221; inside the country have been &#8220;an impediment&#8221; in addition to the Rohingya crisis. She cited Myanmar&#8217;s 70 years of isolation, 21 armed groups still operating in the country, a lack of development, drug production and human trafficking.</p>\n<p>She said her highest priority remains &#8220;ending the vicious cycle of discrimination and violence, especially in Rakhine,&#8221; the western state that was home to the Rohingya who fled &mdash; and where she said 128,000 displaced Rohingya languish in camps, many for nearly seven years.</p>\n<p>As a first step, Schraner-Burgener called for more to be done to end fighting in Rakhine between Myanmar&#8217;s military and the Arakan Army, a well-trained guerrilla force from the Buddhist ethnic group seeking autonomy for Rakhine. She said the fighting has displaced 30,000 Buddhists and Muslims.</p>\n<p>Buddhist-majority Myanmar has long considered the Rohingya to be &#8220;Bengalis&#8221; from Bangladesh even though their families have lived in the country for generations. Nearly all have been denied citizenship since 1982, effectively rendering them stateless, and they are also denied freedom of movement and other basic rights.</p>\n<p>The long-simmering Rohingya crisis exploded in August 2017 when Myanmar&#8217;s military launched what it called a clearance campaign in Rakhine in response to an attack by a Rohingya insurgent group. The campaign led to the mass Rohingya exodus to Bangladesh and to accusations that security forces committed mass rapes and killings and burned thousands of homes.</p>\n<p>Amnesty International accused Myanmar&#8217;s military in late May of a new round of widespread human rights violations in its battles against the Arakan Army since January 2019. The rights group said the military carried out indiscriminate killings of civilians as well as arbitrary arrests and torture, but it also said the Arakan rebels committed abuses against civilians including kidnappings though on a lesser scale.</p>\n<p>Schraner-Burgener said the fighting involving the Arakan Army &#8220;is having a devastating impact on all local communities caught in the crossfire, independent of their religious or ethnic background.&#8221; And &#8220;it is also further impacting efforts toward the dignified, voluntary and safe return of refugees,&#8221; she said.</p>\n<p>U.S. deputy political coordinator Elaine French expressed deep concern that little progress has been made in improving conditions in Rakhine, &#8220;while the military&#8217;s conflict with the Arakan Army continue to escalate and civilian casualties rise by the day.&#8221;</p>\n<p>The United States agrees with the U.N. that conditions aren&#8217;t conducive for Rohingya refugees to return, she said, and the government&#8217;s suspension of internet service in Rakhine &#8220;casts further doubt on its commitment to creating conditions that allow people to feel they can live in safety and security.&#8221;</p>\n<p>Schraner-Burgener said that while there have not been &#8220;a lot of changes on the ground &#8230; we have to continue because we want to see people who go back have freedom of movement&#8221; and access to health and education.</p>\n<p>She told diplomats critical of the lack of progress: &#8220;I assure you also that I need to see action on the ground. If I don&#8217;t see action, I will raise this and will also ring the alarm bell.&#8221;</p>\n<p>In a positive step, Schraner-Burgener said Myanmar has produced a draft national strategy to close camps for displaced Rohingya with support from international experts, the U.N. and others. But she stressed that this must be part of a larger effort that deals with their freedom to move, get jobs and receive basic services.</p>\n<p>Myanmar&#8217;s U.N. ambassador, Hau Do Suan, said the government has approved the return of about 13,000 Rohingya from Bangladesh, from two lists totaling over 30,000 Rohingya, and plans to send a high-level delegation to Cox&#8217;s Bazar to explain arrangements for repatriation.</p>\n<p>Despite challenges involving development, human rights and security including Arakan Army attacks, he said, Myanmar is determined to continue efforts &#8220;to build peace, stability, harmony and development in Rakhine state.&#8221;</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/v0c7OzcFMsY\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/rohingya-cox-bazaar.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/rohingya-cox-bazaar.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618797/un-rohingya-bangladesh-refugee-crisis-alarm/"
+        },
+        {
+            "title": "The Academy of Motion Pictures Arts and Sciences Welcomes 842 New Members, Half of Them Women",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "The Academy of Motion Pictures Arts and Sciences Welcomes 842 New Members, Half of Them Women"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/q3Udc3569hs/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/q3Udc3569hs/",
+            "published": "Tue, 02 Jul 2019 02:35:19 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                2,
+                35,
+                19,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Jake Coyle / AP"
+                }
+            ],
+            "author": "Jake Coyle / AP",
+            "author_detail": {
+                "name": "Jake Coyle / AP"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "movies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "overnight",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618802",
+            "guidislink": false,
+            "summary": "The organization has sought to diversity its ranks following criticism",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "The organization has sought to diversity its ranks following criticism"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module ad-300-250\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618802\"></div></div></aside>\n<p>(NEW YORK) &mdash; The Academy of Motion Pictures Arts and Sciences on Monday invited 842 members from 59 countries to the Oscars organization and, for the first time, reached gender parity in its new class of inductees.</p>\n<p>Half of the new invitees to the film academy are women. In 10 of the 17 branches &mdash; including the directing, writing and producing branches &mdash; more women than men were invited. This year&#8217;s class of new members also includes 29% people of color.</p>\n<p>That&#8217;s a notable turnaround for an organization that has sought to diversity its ranks following criticism for all-white acting nominees in 2015 and 2016. Since 2015, the group&#8217;s overall female membership has grown from 25% to 32%, the academy said. Overall membership of people of color has doubled, from 8% to 16%.</p>\n<p>To aid in the swift overhaul of the academy, the group last year invited a record 928 members. While smaller, this year&#8217;s class still ranks as one of the academy&#8217;s largest in its 92-year history.</p>\n<p>New invitees include Lady Gaga, Sterling K. Brown, Claire Foy, Letitia Wright, Tom Holland and Adele. Newly invited directors include &#8220;Crazy Rich Asians&#8221; filmmaker Jon Chu, &#8220;The Babadook&#8221; director Jennifer Kent and the filmmaking duo of Phil Lord and Chris Miller.</p>\n<p>If most accept their invites, the film academy will number more than 9,000 members.</p>\n<p>Next year&#8217;s Academy Awards will be held on Feb. 9, several weeks earlier than usual.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/q3Udc3569hs\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/oscars-academy-new-members-women.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/oscars-academy-new-members-women.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618802/academy-motion-pictures-arts-sciences-new-members-women/"
+        },
+        {
+            "title": "CBP Investigating Offensive Border Patrol Facebook Group Activity",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "CBP Investigating Offensive Border Patrol Facebook Group Activity"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/RW0vh3kQPJo/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/RW0vh3kQPJo/",
+            "published": "Tue, 02 Jul 2019 00:16:37 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                2,
+                0,
+                16,
+                37,
+                1,
+                183,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Jasmine Aguilera"
+                }
+            ],
+            "author": "Jasmine Aguilera",
+            "author_detail": {
+                "name": "Jasmine Aguilera"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Immigration",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "U.S.",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618767",
+            "guidislink": false,
+            "summary": "Commentators in the group referred to a drowned migrant father and his toddler as 'floaters'",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Commentators in the group referred to a drowned migrant father and his toddler as 'floaters'"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618767\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module video-2\" data-src=\"https://time.com/5618767/cbp-offensive-border-patrol-facebook-group/\" data-widget-id=\"SB_4\" data-ob-template=\"timemag\"></div></aside>\n<p>U.S. Customs and Border Protection (CBP) is investigating reports of racist and sexist social media activity by current and former Border Patrol agents in response to a <a href=\"https://www.propublica.org/article/secret-border-patrol-facebook-group-agents-joke-about-migrant-deaths-post-sexist-memes?fbclid=IwAR04J85h0KI9MCOyyXeyNtue3-4kW0F_g94adoqUAoIJgK36rQzcrj2zAlM\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">ProPublica report</a> of a Facebook group known as &#8220;I&rsquo;m 10-15.&#8221;</p>\n<p>According to screenshots by ProPublica, a nonprofit investigative news outlet, roughly 9,500 current and former Border Patrol agents are a part of the private group, where they have shared offensive content including an illustration of Congresswoman Alexandria Ocasio-Cortez performing oral sex at an immigrant detention center.</p>\n<p>Commentators in the group referred to a <a href=\"https://time.com/5614807/photo-migrant-death-border-crisis/\"  target=\"_blank\" rel=\"noopener\">drowned migrant father and his toddler</a> as &#8220;floaters.&#8221; They also joked about tossing burritos at Hispanic members of Congress, including Ocasio-Cortez and El Paso Congresswoman Veronica Escobar, who <a href=\"https://time.com/5613435/government-moves-migrant-kids-border-inadequate-shelter/\"  target=\"_blank\" rel=\"noopener\">plan to visit the detention center in Clint, Texas</a>, according to screenshots by ProPublica.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<div class=\"time-embed time-embed__twitter\" data-provider=\"twitter\" data-url=\"https://twitter.com/RepEscobar/status/1145812884355735553\" >\n<div class=\"embed-twitter\">\n<blockquote class=\"twitter-tweet\" data-width=\"500\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">We need greater transparency, oversight, and especially after the reports about the vile Facebook group, we need accountability.</p>\n<p>No person who has that much disdain for another human being &mdash; especially the most vulnerable among us &mdash; should have a gun or a badge.</p>\n<p>&mdash; Rep. Veronica Escobar (@RepEscobar) <a href=\"https://twitter.com/RepEscobar/status/1145812884355735553?ref_src=twsrc%5Etfw\"  target=\"_blank\">July 1, 2019</a></p></blockquote>\n</div>\n</div>\n<p>&ldquo;These posts are completely inappropriate and contrary to the honor and integrity I see&mdash;and expect&mdash;from our agents day in and day out,&#8221; said U.S. Border Patrol Chief Carla Provost in a <a href=\"https://www.cbp.gov/newsroom/speeches-and-statements/cbp-statement-private-facebook-group-activity\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">public statement</a>. &#8220;Any employees found to have violated our standards of conduct will be held accountable.&rdquo;</p>\n<p>The investigation comes amid <a href=\"https://time.com/5613583/border-patrol-migrant-children-donations/\"  target=\"_blank\" rel=\"noopener\">public scrutiny of the CBP</a> following reports of <a href=\"https://time.com/5613957/migrant-children-return-texas-border-facility/\"  target=\"_blank\" rel=\"noopener\">unsanitary and inhumane conditions</a> at a Border Patrol facility housing migrant children, and last week&#8217;s <a href=\"https://time.com/5613986/customs-border-protection-head-steps-down/\"  target=\"_blank\" rel=\"noopener\">resignation of the head of CBP</a>, John Sanders.</p>\n<p>&ldquo;What these officers have posted online is despicable, racist and absolutely unacceptable,&#8221; said Jess Morales Rocketto, chair of <a href=\"https://www.familiesbelongtogether.org/about/\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">Families Belong Together</a>, a coalition of immigrant advocacy organizations, in a statement. &#8220;They openly laughed on social media about a child who died on their agency&rsquo;s watch. Congress needs to hold CBP accountable for a culture of racism that is clearly evident across their ranks and immediately close the camps to get children away from these sadists.&#8221;</p>\n<p>This is not the first time government agents have been in hot water over social media comments and posts. In Philadelphia last week, <a href=\"https://time.com/5610923/philadelphia-72-cops-racist-social-media/\"  target=\"_blank\" rel=\"noopener\">72 police officers</a> were removed from their posts and placed on administrative duty after <a href=\"https://www.plainviewproject.org/about\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">The Plain View Project</a>, a research group, uncovered alleged racist posts by the officers. Similarly, St. Louis Circuit Attorney Kimberly Gardner barred <a href=\"https://www.cnn.com/2019/06/19/us/philadelphia-social-media-officers-leave-trnd/index.html\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">22 St. Louis police officers</a> from bringing their cases to her office to prosecute last month over racists social media activity.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/RW0vh3kQPJo\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/customs-border-protection-facebook-group.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/customs-border-protection-facebook-group.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618767/cbp-offensive-border-patrol-facebook-group/"
+        },
+        {
+            "title": "President Trump Says Tanks Will Be Part of July Fourth in Washington",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "President Trump Says Tanks Will Be Part of July Fourth in Washington"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/hAH0_AbxduI/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/hAH0_AbxduI/",
+            "published": "Mon, 01 Jul 2019 23:48:20 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                1,
+                23,
+                48,
+                20,
+                0,
+                182,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "DARLENE SUPERVILLE / AP"
+                }
+            ],
+            "author": "DARLENE SUPERVILLE / AP",
+            "author_detail": {
+                "name": "DARLENE SUPERVILLE / AP"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Washington D.C.",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618775",
+            "guidislink": false,
+            "summary": "Trump plans to deliver a speech at the Lincoln Memorial on Thursday",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Trump plans to deliver a speech at the Lincoln Memorial on Thursday"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618775\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module\" data-src=\"https://time.com/5618775/trump-tanks-july-fourth-washington/\" data-widget-id=\"SB_2\" data-ob-template=\"timemag\"></div></aside>\n<p>WASHINGTON &mdash; President Donald Trump isn&#8217;t taking &#8220;no tanks&#8221; for an answer on the Fourth of July.</p>\n<p>He said Monday that a display of U.S. military tanks will be part of a special event he&#8217;s headlining July 4 in Washington &mdash; and an Associated Press photographer saw at least two M1A1 Abrams tanks and four other military vehicles on a flatcar in a railyard at the southeastern edge of Washington.</p>\n<p>Military police were guarding the vehicles, which were visible to passersby on nearby paths</p>\n<p>Trump had wanted a military parade of tanks and other equipment in the District of Columbia after he witnessed a similar parade on Bastille Day in Paris in 2017. That plan eventually was scuttled, partly because of cost, though Trump apparently held on to the idea.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>Local officials had also objected because of the damage the heavy armored tanks could do to city streets.</p>\n<p>&#8220;We&#8217;re going to have some tanks stationed outside,&#8221; Trump said Monday from the Oval Office, appearing to acknowledge local officials&#8217; earlier concerns. He offered no specifics on where the vehicles would be located.</p>\n<p>&#8220;You&#8217;ve got to be pretty careful with the tanks because the roads have a tendency not to like to carry heavy tanks,&#8221; he said. &#8220;So we have to put them in certain areas but we have the brand new Sherman tanks and we have the brand new Abram tanks.&#8221;</p>\n<p>Sherman tanks were the tank most widely used by the U.S. during World War II, but they have been out of service for decades. The M1A1 Abrams tank is currently the main U.S. battle tank.</p>\n<p>Two M1A1 Abrams tanks and two Bradley Fighting Vehicles will be on display as part of Trump&#8217;s &#8220;Salute to America&#8221; event, according to a U.S. official who spoke on condition of anonymity because details of the exhibits have not been made public.</p>\n<p>The Abrams tanks weigh more than 60 tons apiece and would have been shipped, likely on railroad freight cars, from Fort Stewart, Georgia, the nearest Army base that has them. The Pentagon declined to answer questions about the armored vehicles, including where they came from, and referred all questions to the White House. The White House declined to release more specific information.</p>\n<p>Trump recalled his visit earlier this year to a plant in Lima, Ohio, where M1A1 Abrams tanks are refurbished. The plant had been at risk for closure but remained online due to Trump&#8217;s investments in defense spending.</p>\n<p>&#8220;We have some incredible equipment, military equipment on display &mdash; brand new,&#8221; Trump said. &#8220;And we&#8217;re very proud of it. You know we&#8217;re making a lot of new tanks right now. We&#8217;re building a lot of new tanks in Lima, Ohio &mdash; our great tank factory that people wanted to close down until I got elected and I stopped it from being closed down, and now it&#8217;s a very productive facility.&#8221;</p>\n<p>Thursday&#8217;s events are also expected to include a military demonstration by the U.S. Navy Blue Angels and other aircraft.</p>\n<p>&#8220;We&#8217;re going to have a great Fourth of July in Washington, D.C. It&#8217;ll be like no other,&#8221; Trump said. &#8220;It&#8217;ll be special and I hope a lot of people come. And it&#8217;s going to be about this country and it&#8217;s a salute to America.&#8221;</p>\n<p>&#8220;I&#8217;m going to say a few words and we&#8217;re going to have planes going overhead, the best fighter jets in the world and other planes, too,&#8221; he said.</p>\n<p>Trump plans to deliver a speech at the Lincoln Memorial during his &#8220;Salute to America,&#8221; which has been added to regular schedule of Independence Day events in the nation&#8217;s capital. The annual fireworks display will go off closer to the Lincoln Memorial instead of the Washington Monument, as has been the long-standing tradition.</p>\n<p>The event is open to the public and free of charge, but a ticket-only area in front of the memorial is being set aside for VIPs, including members of Trump&#8217;s family, friends and members of the military, the White House said.</p>\n<p>Last year, Trump and his wife, first lady Melania Trump, hosted service members and their families at a picnic on the White House lawn and the president addressed guests from the balcony. No similar event is being planned this year.</p>\n<p>Federal lawmakers, local officials and others have voiced concerns that Trump could alter the tone of what traditionally is a nonpartisan celebration of America&#8217;s independence from the British by delivering a political speech. Trump formally announced his bid for re-election in June.</p>\n<p>Interior Secretary David Bernhardt, who oversees the National Mall and has helped orchestrate the president&#8217;s vision, and other officials have said Trump&#8217;s remarks will be patriotic.</p>\n<p>___</p>\n<p>Associated Press writer Lolita C. Baldor and Associated Press photographer Patrick Semansky in Washington contributed to this report.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/hAH0_AbxduI\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182863033547.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182863033547.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618775/trump-tanks-july-fourth-washington/"
+        },
+        {
+            "title": "Florida Woman Dies From Flesh-Eating Disease, Family Says",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Florida Woman Dies From Flesh-Eating Disease, Family Says"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/_7PPRuJK5Ng/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/_7PPRuJK5Ng/",
+            "published": "Mon, 01 Jul 2019 22:58:11 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                1,
+                22,
+                58,
+                11,
+                0,
+                182,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "ADRIANA GOMEZ LICON / AP"
+                }
+            ],
+            "author": "ADRIANA GOMEZ LICON / AP",
+            "author_detail": {
+                "name": "ADRIANA GOMEZ LICON / AP"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Florida",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618758",
+            "guidislink": false,
+            "summary": "Lynn Fleming died Thursday after suffering two strokes and organ failure",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Lynn Fleming died Thursday after suffering two strokes and organ failure"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618758\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module video-2\" data-src=\"https://time.com/5618758/florida-woman-dies-flesh-eating-disease/\" data-widget-id=\"SB_4\" data-ob-template=\"timemag\"></div></aside>\n<p>MIAMI &mdash; A 77-year-old woman was infected by flesh-eating bacteria and died nearly two weeks after she fell and scraped her leg while walking on a Florida beach, her family said Monday.</p>\n<p>Wade Fleming told The Associated Press that his mother Lynn Fleming, who retired to Florida&#8217;s Gulf Coast, stumbled and fell into the water on Coquina Beach while her family was visiting from Pittsburgh. The wound swelled up and continued to bleed, leading her to urgent care where she was prescribed antibiotics and given a tetanus shot.</p>\n<p>The woman was taken a day later to the hospital, where she was diagnosed with the flesh-eating disease and died Thursday after suffering two strokes and organ failure.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>Lynn Fleming&#8217;s death follows the case of a 12-year-old girl from Indiana, who scraped her toe and contracted the same rare bacteria while vacationing last month in a Florida Panhandle beach. The bacteria thrive in warm, salty water, and usually are found in the South. Kylei Brown almost lost her leg and needs physical therapy to be able to walk again.</p>\n<p>A retired bank teller from Charleroi, Lynn Fleming dreamed of moving to the area south of Tampa.</p>\n<p>&#8220;She always wanted to move to Florida, but my dad was semi-retired and he was a charter boat captain,&#8221; he said. &#8220;After he died, she pulled the trigger.&#8221;</p>\n<p>Almost four years ago she moved to Ellenton, where she took walks, played cards and shared dinners with other retired friends from her singles club.</p>\n<p>The day she scraped her leg she was taking one of her usual walks on the beach. Wade Fleming said the family didn&#8217;t think much of the cut, which was three-quarters of an inch (19 millimeters). But the blood continued to trickle down. Lynn Fleming invited her son and his family to her retirement community&#8217;s monthly dinner that night before they returned to Pittsburgh.</p>\n<p>&#8220;You would never know that anything was wrong,&#8221; Fleming said.</p>\n<p>After her son and family left, the wound got worse and her friends convinced her to go to urgent care, where she was given a tetanus shot and prescribed antibiotics. The next day when her friends were going to deliver the prescription drugs, they found her on her bedroom floor semiconscious. They rushed her to a hospital.</p>\n<p>She was told she had been infected by the flesh-eating bacteria, Necrotizing fasciitis. She died after she suffered two strokes and septic shock during surgeries to save her leg.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/_7PPRuJK5Ng\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182667039325.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182667039325.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618758/florida-woman-dies-flesh-eating-disease/"
+        },
+        {
+            "title": "Los Angeles Angels Pitcher Tyler Skaggs Found Dead at 27",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Los Angeles Angels Pitcher Tyler Skaggs Found Dead at 27"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/x-hEXaNzv_4/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/x-hEXaNzv_4/",
+            "published": "Mon, 01 Jul 2019 22:48:29 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                1,
+                22,
+                48,
+                29,
+                0,
+                182,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Jasmine Aguilera"
+                }
+            ],
+            "author": "Jasmine Aguilera",
+            "author_detail": {
+                "name": "Jasmine Aguilera"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Baseball",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Sports",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618741",
+            "guidislink": false,
+            "summary": "Police said no foul play is suspected and an investigation is ongoing",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Police said no foul play is suspected and an investigation is ongoing"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module ad-300-250\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618741\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module video-2\" data-src=\"https://time.com/5618741/los-angeles-angels-tyler-skaggs-dead-27/\" data-widget-id=\"SB_4\" data-ob-template=\"timemag\"></div></aside>\n<p>Los Angeles Angels pitcher <a href=\"https://www.mlb.com/player/tyler-skaggs-572140\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">Tyler Skaggs</a> was found dead in a hotel room in Southlake, Texas, on Monday afternoon. He was 27. The Southlake Police Department <a href=\"https://twitter.com/SouthlakeDPS/status/1145803124155834369\"  target=\"_blank\">said in a statement</a> no foul play is suspected and an investigation is ongoing.</p>\n<div class=\"time-embed time-embed__twitter\" data-provider=\"twitter\" data-url=\"https://twitter.com/Angels/status/1145798021780840448\" >\n<div class=\"embed-twitter\">\n<blockquote class=\"twitter-tweet\" data-width=\"500\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">Angels statement on the passing of Tyler Skaggs. <a href=\"https://t.co/6XA2Vu1uWV\"  target=\"_blank\">pic.twitter.com/6XA2Vu1uWV</a></p>\n<p>&mdash; Los Angeles Angels (@Angels) <a href=\"https://twitter.com/Angels/status/1145798021780840448?ref_src=twsrc%5Etfw\"  target=\"_blank\">July 1, 2019</a></p></blockquote>\n</div>\n</div>\n<p>&ldquo;I am deeply saddened by today&rsquo;s tragedy in Texas. All of us at Major League Baseball extend our deepest condolences to Tyler&rsquo;s wife Carli, their family, their friends and all of his Angels&rsquo; teammates and colleagues,&#8221; said Major League Baseball Commissioner Rob Manfred in a <a href=\"https://www.mlb.com/angels/news/tyler-skaggs-passes-away\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">statement</a>. &#8220;We will support the Angels&rsquo; organization through this most difficult period, and we will make a variety of resources available to Tyler&rsquo;s teammates and other members of the baseball family.&rdquo;</p>\n<p>Skaggs, nicknamed Swaggy, was born in Los Angeles and was drafted to the Angels in 2009 after graduating high school. He was traded to the Arizona Diamondbacks in 2010, according to the Associated Press.</p>\n<p>&#8220;We are heartbroken with this tragic news,&#8221; said Diamondbacks CEO and President Derrick Hall in <a href=\"https://www.mlb.com/news/d-backs-statement-on-passing-of-tyler-skaggs\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">a statement</a>. &#8220;Tyler began his Major League career as a Diamondback and he will always be remembered here as a great teammate and wonderful young man. His family is in our thoughts and prayers during this challenging time.&rdquo;</p>\n<p>He was reacquired by the Angels in December 2013. He won 28 games over the course of his career.</p>\n<p>The Angels were scheduled to play the start of a four-game series against the Texas Rangers on Monday evening, but the game has <a href=\"https://twitter.com/Rangers/status/1145799847502581760\"  target=\"_blank\" rel=\"noopener\" target=\"_blank\">been postponed</a>.</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/x-hEXaNzv_4\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/tyler-skaggs-found-dead-los-angeles-texas.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/tyler-skaggs-found-dead-los-angeles-texas.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618741/los-angeles-angels-tyler-skaggs-dead-27/"
+        },
+        {
+            "title": "President Trump Signs Aid Package to Help Government Cope With Migrant Surge",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "President Trump Signs Aid Package to Help Government Cope With Migrant Surge"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "http://feedproxy.google.com/~r/time/topstories/~3/sLi2qbGn-yw/"
+                }
+            ],
+            "link": "http://feedproxy.google.com/~r/time/topstories/~3/sLi2qbGn-yw/",
+            "published": "Mon, 01 Jul 2019 22:41:44 +0000",
+            "published_parsed": [
+                2019,
+                7,
+                1,
+                22,
+                41,
+                44,
+                0,
+                182,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Associated Press"
+                }
+            ],
+            "author": "Associated Press",
+            "author_detail": {
+                "name": "Associated Press"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Immigration",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "onetime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "White House",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "http://time.com/?p=5618738",
+            "guidislink": false,
+            "summary": "Many Democratic lawmakers were hoping for more",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds2.feedburner.com/time/topstories",
+                "value": "Many Democratic lawmakers were hoping for more"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "http://feeds2.feedburner.com/time/topstories",
+                    "value": "<aside class=\"right-rail__container right-rail__container--ad\"><div class=\"right-rail__ad__wrapper right-rail__module\"><div class=\"right-rail__ad\" id=\"right-rail__ad-5618738\"></div></div><br />\n<div class=\"OUTBRAIN right-rail__outbrain right-rail__module video-2\" data-src=\"https://time.com/5618738/trump-signs-migrant-care-package/\" data-widget-id=\"SB_4\" data-ob-template=\"timemag\"></div></aside>\n<p>WASHINGTON &mdash; President Donald Trump signed a $4.6 billion aid package on Monday to help the federal government cope with the surge of Central American immigrants at the U.S.-Mexico border.</p>\n<p>Many Democratic lawmakers were hoping for more. They wanted to provide stronger protections for how migrants are treated at holding facilities and to make it easier for lawmakers to make snap visits.</p>\n<p>Trump signed the bill in the Oval Office, flanked by Vice President Mike Pence and Health and Human Services Secretary Alex Azar. The emergency legislation was needed to ease overcrowded, often harsh conditions at U.S. holding facilities for migrants seeking asylum, mostly from Central American nations like Honduras and El Salvador.<br />\n<div class=\"article-video ad_brightcove_video right-rail-adjacent\"><div id=\"ad_brightcove\" class=\"ad_brightcove_video-wrapper\"></div></div></p>\n<p>&#8220;This is a humane solution to a tremendous problem that starts because of our bad immigration laws,&#8221; Trump said.</p>\n<p>The White House had threated to veto a House bill on grounds that it would hamstring border security efforts. Democratic House Speaker Nancy Pelosi was forced to accept the Republican-controlled Senate&#8217;s version of the aid package, frustrating the more liberal members of her caucus.</p>\n<p>The bill bolsters care for tens of thousands of arrivals taken into custody monthly and sets guidelines for how the Trump administration must handle them.</p>\n<p>Trump expressed satisfaction with the bill, but made clear he was dissatisfied with the state of illegal immigration in the United States. He suggested he would continue with plans for a nationwide immigration sweep to deport people living the United States illegally, including families.</p>\n<p>Trump delayed the raids about a week ago. The move came after Pelosi urged Trump to call them off. Immigration and Customs Enforcement leaders had also expressed serious concerns that officers&#8217; safety would be in jeopardy because too many details about the raids had been made public.</p>\n<p>&#8220;After July 4th, a lot of people are going to be brought back out,&#8221; Trump threatened. &#8220;ICE is going to be apprehending them and bringing them back.&#8221;</p>\n<p>Trump dismissed the conditions that most people seeking asylum in the U.S. face in their home countries. He said they are lodging &#8220;frivolous asylum claims.&#8221;</p>\n<p>&#8220;That&#8217;s what they do to gain access into the country,&#8221; Trump said. &#8220;They lodge claims of asylum, and they&#8217;re totally bogus claims.&#8221;</p>\n<img src=\"http://feeds.feedburner.com/~r/time/topstories/~4/sLi2qbGn-yw\" height=\"1\" width=\"1\" alt=\"\"/>"
+                }
+            ],
+            "media_thumbnail": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182007508074.jpg?quality=85"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://timedotcom.files.wordpress.com/2019/07/ap19182007508074.jpg?quality=85",
+                    "medium": "image"
+                }
+            ],
+            "feedburner_origlink": "https://time.com/5618738/trump-signs-migrant-care-package/"
+        }
+    ],
+    "bozo": 0,
+    "headers": {
+        "Content-Type": "text/xml; charset=UTF-8",
+        "ETag": "RHvyqCkHXUV6CY3g7e86kjQvt0E",
+        "Last-Modified": "Tue, 02 Jul 2019 08:53:21 GMT",
+        "Content-Encoding": "gzip",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 02 Jul 2019 08:53:55 GMT",
+        "Expires": "Tue, 02 Jul 2019 08:53:55 GMT",
+        "Cache-Control": "private, max-age=0",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "Server": "GSE",
+        "Connection": "close"
+    },
+    "etag": "RHvyqCkHXUV6CY3g7e86kjQvt0E",
+    "updated": "Tue, 02 Jul 2019 08:53:21 GMT",
+    "updated_parsed": [
+        2019,
+        7,
+        2,
+        8,
+        53,
+        21,
+        1,
+        183,
+        0
+    ],
+    "href": "http://feeds2.feedburner.com/time/topstories",
+    "status": 200,
+    "encoding": "UTF-8",
+    "version": "rss20",
+    "namespaces": {
+        "content": "http://purl.org/rss/1.0/modules/content/",
+        "wfw": "http://wellformedweb.org/CommentAPI/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "": "http://www.w3.org/2005/Atom",
+        "sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "slash": "http://purl.org/rss/1.0/modules/slash/",
+        "media": "http://search.yahoo.com/mrss/",
+        "georss": "http://www.georss.org/georss",
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+        "feedburner": "http://rssnamespace.org/feedburner/ext/1.0"
+    }
+}
