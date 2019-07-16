@@ -6,11 +6,12 @@ import datetime
 
 def extract_info(parsed_feed):
     extracted_data = []
-    for entry in parse_feeds['entries']:
+    for entry in parsed_feed['entries']:
         extracted_data.append({
             "url": entry['feedburner_origlink'],
-            "time": datetime.datetime.strptime(entry['published'])
+            "time": datetime.datetime.strptime(entry['published'],'%a, %d %b %Y %H:%M:%S %z')
         })
+    return extracted_data
 
 def parse_feeds():
     repo = FeedRepository()
@@ -28,7 +29,7 @@ def parse_feeds():
         if parsed_feed['status'] == 200:
             data = extract_info(parsed_feed)
             print(data)
-            # domain_repo.save_extracted_url_with_content('time', data)
+            domain_repo.save_extracted_url_with_content('time', data)
             feed_url['etag'] = parsed_feed['etag']
     print(active_feeds)
     # update etags to the urls
